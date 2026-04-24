@@ -1,8 +1,8 @@
-# Team Red Project – Full Stack Web Application
+# Student Team Members Management Application
 
 ## Overview
 
-This project is a full-stack web application developed using React (Frontend) and Node.js with Express (Backend). It allows users to manage team members by adding, viewing, and displaying detailed information.
+This project is a full-stack web application developed using React (Frontend) and Node.js with Express (Backend). It allows users to manage student team members by adding, viewing, and displaying detailed information.
 
 ---
 
@@ -17,7 +17,7 @@ This project is a full-stack web application developed using React (Frontend) an
 
 ## Features
 
-* Add new team members
+* Add new student team members
 * View all members
 * View detailed member information
 * Upload and manage member images
@@ -114,6 +114,7 @@ npm start
 * Working with REST APIs
 * Integration of frontend and backend
 * Version control using Git and GitHub
+
 
 
 ---
